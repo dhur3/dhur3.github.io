@@ -1,5 +1,5 @@
 ---
-title: Professional Licenses Data Visualization
+name: Professional Licenses Data Visualization
 tools: [Python, Altair, Vega-Lite]
 image: assets/pngs/your_thumbnail_image.png 
 description: Interactive visualizations of Illinois professional licenses data.
