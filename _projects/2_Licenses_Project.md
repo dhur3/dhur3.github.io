@@ -27,4 +27,4 @@ For the second visualization, I created a Heatmap (`mark_rect`) to display the d
 
 <br>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/jsons/licenses_chart_hw5.1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/licenses_chart_hw5.1.json" style="width: 100%"></vegachart>
