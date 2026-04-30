@@ -13,7 +13,7 @@ permalink: /projects/storm-analysis/
 
 Global warming is the leading cause of recorded changes in temperature across the globe. Temperatures continue to rise each year, and this is impacting storm activity significantly. Higher temperatures are causing storms to occur more rapidly, with more events predicted per year than ever expected. This shift affects all storm types regardless of geographic location, leading to increased rainfall, rising sea levels, and extreme heatwaves. As shown in the visualization below, the majority of the globe in 2025 experienced temperatures much warmer than average—a trend that is far from normal.
 
-![Land & Ocean Temperature Percentiles](https://dhur3.github.io/assets/map-percentile-mntp-202501-202512.png)
+![Land & Ocean Temperature Percentiles](https://dhur3.github.io/assets/pngs/map-percentile-mntp-202501-202512.png)
 *Source: NOAA National Centers for Environmental Information*
 
 ---
