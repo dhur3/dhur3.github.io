@@ -5,7 +5,7 @@ permalink: /projects/storm-analysis/
 ---
 
 # 🌪️ Nature’s Fury: Unpacking the 2025 Storm Season
-**By Jun Hur, Elle Crisostomo, Emily Fletcher, and Jaida Duson **
+**By Jun Hur, Elle Crisostomo, Emily Fletcher, and Jaida Duson**
 
 ---
 
@@ -13,7 +13,7 @@ permalink: /projects/storm-analysis/
 
 Global warming is the leading cause of recorded changes in temperature across the globe. Temperatures continue to rise each year, and this is impacting storm activity significantly. Higher temperatures are causing storms to occur more rapidly, with more events predicted per year than ever expected. This shift affects all storm types regardless of geographic location, leading to increased rainfall, rising sea levels, and extreme heatwaves. As shown in the visualization below, the majority of the globe in 2025 experienced temperatures much warmer than average—a trend that is far from normal.
 
-![Land & Ocean Temperature Percentiles](https://[USERNAME].github.io/assets/map-percentile-mntp-202501-202512.png)
+![Land & Ocean Temperature Percentiles](https://dhur3.github.io/assets/map-percentile-mntp-202501-202512.png)
 *Source: NOAA National Centers for Environmental Information*
 
 ---
@@ -41,7 +41,7 @@ For instance, in **Illinois**, "Thunderstorm Wind" stands out as the overwhelmin
 ### **📚 Data Resources & Citations**
 
 **Analysis Resources:**
-* **Jupyter Notebook:** [Link to your GitHub .ipynb file](https://github.com/[USERNAME]/[REPO]/blob/main/analysis.ipynb)
+* **Jupyter Notebook:** [View Notebook on GitHub](https://github.com/dhur3/dhur3.github.io/blob/main/analysis.ipynb) *(노트북 파일명이 다르면 수정하세요)*
 
 **Data Sources:**
 * **Storm Events Data:** NOAA National Centers for Environmental Information (2025). [Source Link](https://www.ncdc.noaa.gov/stormevents/)
@@ -53,7 +53,7 @@ For instance, in **Illinois**, "Thunderstorm Wind" stands out as the overwhelmin
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <script>
-  // JSON 파일들의 경로를 본인의 GitHub 경로에 맞게 수정하세요.
-  vegaEmbed('#fema_chart', 'https://[USERNAME].github.io/assets/fema_disasters.json');
-  vegaEmbed('#state_chart', 'https://[USERNAME].github.io/assets/state_storms.json');
+  // dhur3 계정 경로에 맞게 설정됨
+  vegaEmbed('#fema_chart', 'https://dhur3.github.io/assets/fema_disasters.json');
+  vegaEmbed('#state_chart', 'https://dhur3.github.io/assets/state_storms.json');
 </script>
