@@ -1,6 +1,10 @@
 ---
 layout: page
-title: "Nature’s Fury: Unpacking the 2025 Storm Season"
+title: "Nature's Fury: 2025 Storm Season"
+description: "An interactive analysis of 2025 storm frequency and federal disaster declarations."
+img: /assets/pngs/map-percentile-mntp-202501-202512.png
+importance: 1
+category: work
 permalink: /projects/storm-analysis/
 ---
 
