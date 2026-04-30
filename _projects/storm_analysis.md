@@ -53,6 +53,6 @@ For instance, in **Illinois**, "Thunderstorm Wind" stands out as the overwhelmin
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <script>
-  vegaEmbed('#fema_chart', 'https://dhur3.github.io/assets/fema_disasters.json');
-  vegaEmbed('#state_chart', 'https://dhur3.github.io/assets/state_storms.json');
+  vegaEmbed('#fema_chart', 'https://dhur3.github.io/assets/json/fema_disasters.json');
+  vegaEmbed('#state_chart', 'https://dhur3.github.io/assets/json/state_storms.json');
 </script>
