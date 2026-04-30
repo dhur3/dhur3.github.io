@@ -41,7 +41,7 @@ For instance, in **Illinois**, "Thunderstorm Wind" stands out as the overwhelmin
 ### **📚 Data Resources & Citations**
 
 **Analysis Resources:**
-* **Jupyter Notebook:** [View Notebook on GitHub](https://github.com/dhur3/dhur3.github.io/blob/main/analysis.ipynb) *(노트북 파일명이 다르면 수정하세요)*
+* [View Jupyter Notebook on GitHub](https://github.com/dhur3/dhur3.github.io/blob/main/python_notebooks/Workbook_storm.ipynb)
 
 **Data Sources:**
 * **Storm Events Data:** NOAA National Centers for Environmental Information (2025). [Source Link](https://www.ncdc.noaa.gov/stormevents/)
@@ -53,7 +53,6 @@ For instance, in **Illinois**, "Thunderstorm Wind" stands out as the overwhelmin
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <script>
-  // dhur3 계정 경로에 맞게 설정됨
   vegaEmbed('#fema_chart', 'https://dhur3.github.io/assets/fema_disasters.json');
   vegaEmbed('#state_chart', 'https://dhur3.github.io/assets/state_storms.json');
 </script>
